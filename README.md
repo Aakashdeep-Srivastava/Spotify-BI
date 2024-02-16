@@ -6,9 +6,7 @@ This Power BI dashboard dives deep into the music industry's landscape from 1980
 
 ![Dashboard Screenshot](https://github.com/Aakashdeep-Srivastava/Spotify-BI/blob/main/Spotify%20Power%20BI.png)
 
-![Live link ](https://www.novypro.com/project/spotify-custom-visuals)
-
-*Please replace `path/to/dashboard_screenshot.png` with the actual path to your dashboard image in your repository.*
+![Live link ]🔗(https://www.novypro.com/project/spotify-custom-visuals)
 
 ## Features 🚀
 
